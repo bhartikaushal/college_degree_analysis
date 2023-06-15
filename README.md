@@ -44,14 +44,6 @@ Major sources of the datasets:
 # GitHub:
 https://github.com/bhartikaushal/college_degree_analysis
 
-# Research Question 1:
-
-Is there a correlation between the typical education level required for a job and the salary for that job in the U.S.?
-
-# Research Question 2:
-
- Is there a relationship between institutional characteristics (size, type, selectivity, and cost) and six-year graduation rates of bachelor’s degree students who entered U.S. colleges in Aug 2015?
-
 Jupyter Notebook: https://github.com/bhartikaushal/college_degree_analysis/blob/main/group_project1.ipynb
 
 
