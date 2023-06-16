@@ -57,6 +57,7 @@ Read in raw data from Bureau of Labor Statistics (2021 wage data)
 Convert wage data to numeric 
 Remove commas
 Replaced “>=208000” with “208000” in wage column. This affected 18 entries. 
+
 Step 2:
 Grouped data based on typical entry level education level
 Got the mean and median wages by education level
@@ -66,7 +67,6 @@ Bar chart
 Pie chart 
 Histogram
 Conducted an ANOVA to examine whether there were statistically significant differences in wages across education levels.  The null hypothesis is rejected based on the low p-value.Median annual wage diffres significantly across Education level.The average salary for jobs that require the doctoral degree is the highest while it is lowest for the jobs that require no formal education.
-
 
 Step 3: 
 Read into  the dataset from 'Integrated Post Secondary Education Data System'(IPEDS).
@@ -83,4 +83,20 @@ Ran a Linear Regression models to predict graduation rates from(Overall, Public 
 Cost 
 Total Enrollment
 Percent Admitted  
+
+LIMITATIONS:
+BLS: 
+1.is survey data 
+2. Median Wages do not indicate “entry-level” or more experience in the field.
+IPEDS:
+1. is survey data 
+2. Not all schools report; school that do report do not always report all data.  
+3. The reason is unknown for students not graduating from specific institutions.
+
+NEXT STEPS/FUTURE IMPROVEMENTS
+1.Evaluate college retention rates
+2.Investigate wages and graduation by field of study 
+3.Investigate amount of student debt
+
+
 
