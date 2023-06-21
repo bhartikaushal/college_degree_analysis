@@ -85,7 +85,9 @@ Total Enrollment
 Percent Admitted  
 
 CONCLUSION:
+
 There is a positive relationship between the typical education level required for a job and the wage for that job in the U.S. 
+
 a. Graduation rates were higher in private than public institutions 
 b. The p-value is less than 0.05 (p < 0.05); however, there were several outliers for the private school data.
 c. Graduation rates were higher for more expensive institutions
